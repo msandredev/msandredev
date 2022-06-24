@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><h3>Visitors Count</h3></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{msandredev}/count.svg" /></p> 
 <br></div>
 
