@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=303030&height=150&section=header&text=Hello there!✋&fontSize=28&animation=twinkling&fontAlignY=35&fontColor=CCC"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=707070&size=22&center=true&vCenter=true&width=1000&lines=I'm+André,+and+I'm+a+Java+Software+Developer!🧑🏻‍💻;☕️;First+of+all,;thanks+for+visiting+my+GitHub+profile!+🤝;Hope+you+enjoy+it!;And+if+you+want;we+can+connect+each+other,+right?🙂+:%29;Welcome!!!;)]()
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=707070&size=22&center=true&vCenter=true&width=1000&lines=My+name+is+André.+🧔🏻;First+of+all,;thanks+for+visiting+my+GitHub+profile!;I+hope+you'll+enjoy+it!+:%29;I+am+a+backend+software+developer+🧑🏻‍💻;Welcome!!!;)]()
 <div style="display: inline_block" align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msandredev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msandredev@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5541997006885)
