@@ -1,14 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=303030&height=150&section=header&animation=twinkling&fontAlignY=35&fontColor=CCC"/>
  
-<div style="display: inline_block" align="left">
+<div style="display: inline_block" align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B+Andr%C3%A9+aqui!+%F0%9F%99%82;Seja+muito+bem-vindo(a)!+%F0%9F%AB%B6;N%C3%A3o+tem+muita+coisa+por+aqui+ainda.+%F0%9F%AB%A3;T%C3%B4+tentando+manter+a+%F0%9F%8F%A0+em+ordem!+%F0%9F%A7%B9;Aprecie+com+modera%C3%A7%C3%A3o!+%F0%9F%98%89)](https://git.io/typing-svg)
 
 </div>
 
-<div style="display: inline_block" align="left">
+<div style="display: inline_block" align="center">
 
-Desenvolvedor Java Backend atuando com microserviços utilizando Spring Boot e umas outras techs aí.
+Me chamo André! <br />
+Sou Desenvolvedor Java atuando no Backend com microserviços, <br />
+utilizando Spring Boot e umas outras techs aí.<br />
+<br />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msandredev)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msandredev@gmail.com) 
