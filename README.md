@@ -2,14 +2,13 @@
  
 <div style="display: inline_block" align="left">
 
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=767676&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B" alt="Typing SVG"/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B+Andr%C3%A9+aqui!+%F0%9F%99%82;Seja+muito+bem-vindo(a)!+%F0%9F%AB%B6;N%C3%A3o+tem+muita+coisa+por+aqui+ainda.+%F0%9F%AB%A3;T%C3%B4+tentando+manter+a+%F0%9F%8F%A0+em+ordem!+%F0%9F%A7%B9;Aprecie+com+modera%C3%A7%C3%A3o!+%F0%9F%98%89)](https://git.io/typing-svg)
 
 </div>
 
 <div style="display: inline_block" align="left">
 
-### Olá, André aqui! 🙂
- Desenvolvedor Java Backend atuando com microserviços utilizando Spring Boot.
+Desenvolvedor Java Backend atuando com microserviços utilizando Spring Boot e umas outras techs aí.
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msandredev)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msandredev@gmail.com) 
@@ -21,21 +20,22 @@
 <div style="display: inline_block" align="left">
 
 ## :sparkles: Daily used tools
-#### Tecnologias que utilizo no dia-a-dia
+#### No meu dia-a-dia utilizo:
 
 >- :coffee: Java 8, 11 e 17
 >- :leaves: Spring Boot e Spring Framework
->- 🌔 Eclipse / IntelliJ
+>- 🌔 IntelliJ / Eclipse/ Spring Tool Suite / Visual Studio Code
 >- :whale: Docker
 >- :frog: Swagger UI
->- 📍 Postman / Insomnia
-</div><br/>
+>- 📍 Postman / Insomnia / Thunder Client (plugin VSCode)
+>- 🛵 CI/CD com Jenkins, Kubernetes
+>- 🧪 Testes Unitários com JUnit e Mockito e validação de cobertura de código com SonarQube
+</div>
+
+<br/>
 
 ## 🎲 Other knowledges & experiences
-#### Tecnologias que aprendi e/ou já utilizei ao longo de minha carreira
-
-
-> Além de utilizar o Java + Spring no meu dia-dia, também utilizo outras tecnologias como:
+#### Tenho também alguma experiência com:
 >- Mensageria com tópicos do Apache Kafka (Producer & Consumer)
 >- Versionamento de código com Git GitLab
 >- Testes unitários com JUnit 5
@@ -43,12 +43,28 @@
 >- IntelliJ IDEA e às vezes VSCode  
 >- Clean Archtecture / Arquitetura Hexagonal (Ports & Adapters)
 
+<br />
+
+## 🎓 What I am studying
+#### O que estou estudando no momento:
+>- Angular
+
+<br />
+
+## 📚 What I am reading
+#### Leituras técnicas
+>- Java Efetivo (Effective Java) 3th Edition - Joshua Bloch (Alta Books)
+>- Microserviços prontos para a produção - Susan J. Fowler (Novatec)
+>- Java para iniciantes - 6th Edition - Herbert Schildt (Bookman) 
+
+<br />
+<br />
+<br />
 
 <div style="display: inline_block" align="left">
 
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="Spring Boot" src="https://camo.githubusercontent.com/de3012ca40ba3ef433da8807996576d3cafaccf638909e83b1048b1d8aec3b77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e675f426f6f742d4632463446393f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e672d626f6f74">
   <img align="center" alt="" src="https://camo.githubusercontent.com/9588f2ce229c0d45ecf35b26f2232857fb601191b6bb6547022acfc8cb6c39ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a756e6974352d3235413136323f7374796c653d666f722d7468652d6261646765266c6f676f3d6a756e697435266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="" src="https://camo.githubusercontent.com/ed0b45f0a053bd31b8c5fec7561487b69a611726eefceafa758601ca6b76a63b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368655f4b61666b612d3233314632303f7374796c653d666f722d7468652d6261646765266c6f676f3d6170616368652d6b61666b61266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -61,7 +77,6 @@
   <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img align="center" alt="Redis" src="https://camo.githubusercontent.com/16c5d674d150e47e77738a333e74716023295715c956aaf84615cef3f50675ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465" />
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
